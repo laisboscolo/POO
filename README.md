@@ -17,6 +17,5 @@ atributo) ex: nome
 
 ## Encapsulamento: ele protege informações privadas evitando mudanças acidentais ex: um aluno tem uma nota secreta
 
-## Herança(reutilizar): Herança permite que uma classe proveite características de outra, evitando repetição
-Exemplo:cria a classe pessoa que contem nome e idade, depois criar aluno e professor que herdam as características de pessoa
+## Herança(reutilizar): Herança permite que uma classe proveite características de outra, evitando repetição Exemplo:cria a classe pessoa que contem nome e idade, depois criar aluno e professor que herdam as características de pessoa
 

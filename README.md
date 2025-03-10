@@ -6,8 +6,7 @@
 
 Dentro do objeto sempre vai ter duas características
 
-### 1-propriedade(um
-atributo) ex: nome
+### 1-propriedade(um atributo) ex: nome
 
 
 ### 2-metodo (ação que objeto/atributo vai fazer) ex: estudar

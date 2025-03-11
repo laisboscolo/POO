@@ -16,5 +16,10 @@ Dentro do objeto sempre vai ter duas características
 
 ## Encapsulamento: ele protege informações privadas evitando mudanças acidentais ex: um aluno tem uma nota secreta
 
-## Herança(reutilizar): Herança permite que uma classe proveite características de outra, evitando repetição Exemplo:cria a classe pessoa que contem nome e idade, depois criar aluno e professor que herdam as características de pessoa
+## Herança(reutilizar): Herança permite que uma classe proveite características de outra, evitando repetição Exemplo:cria a classe pessoa que contem nome e idade, depois criar aluno e professor que herdam as características de pessoa.
+
+## Polimorfismo: O polimorfismo permite que diferentes classes Exibam o mesmo método, mas funcionando de formas diferentes
+
+## ABSTRAÇAO: Permite criar classes que não podem ser instanciadas diretamente, servindo apenas como *modelo base* por outras classes. Evitando criação de objetos genéticos.
+
 
